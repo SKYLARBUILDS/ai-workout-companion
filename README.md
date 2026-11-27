@@ -25,7 +25,7 @@ acid-lime-on-olive **neon** aesthetic with liquid-glass panels.
 ## ⚡ Quick start / 快速开始
 
 ```bash
-git clone https://github.com/SkylarWJY/ai-workout-companion.git
+git clone https://github.com/skylarbuilds/ai-workout-companion.git
 cd ai-workout-companion
 npm install
 npm run dev        # → http://localhost:5173/?v=2
